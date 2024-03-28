@@ -15,6 +15,10 @@ void main() {
 ///
 ///
 /// add hello
+///
+test(){
+ // 'hello world'
+}
 
 var width;
 var height;
