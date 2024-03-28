@@ -11,11 +11,6 @@ void main() {
   runApp(const MyApp());
 }
 
-///add hi
-///
-///
-/// add hello
-///
 test(){
  // 'hello world'
 }
